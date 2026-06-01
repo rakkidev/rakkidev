@@ -266,6 +266,6 @@ mindmap
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer" width="100%"/>
 
-<sub>⭐️ From [iamrakki](https://github.com/rakkidev) | Built with 💙 and ☕</sub>
+<sub>⭐️ From [rakkidev](https://github.com/rakkidev) | Built with 💙 and ☕</sub>
 
 </div>
